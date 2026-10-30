@@ -1,0 +1,13 @@
+{
+"name": "battlepie-afk-bot",
+"version": "1.0.0",
+"private": true,
+"description": "Minecraft Bedrock AFK project",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"bedrock-protocol": "^3.50.0",
+"express": "^4.21.2"
+}
+}
